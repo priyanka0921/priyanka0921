@@ -4,6 +4,6 @@
 🌱 I'm currently learing Full-Stack Java Development.
 
 ## Skills</h4>
-- ☕ Core Java
+- ☕ Core Java J2EE SpringBoot
 
-- 🌐 HTML
+- 🌐 HTML CSS JS
